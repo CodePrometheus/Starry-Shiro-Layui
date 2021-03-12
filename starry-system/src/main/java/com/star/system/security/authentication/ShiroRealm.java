@@ -1,7 +1,7 @@
 package com.star.system.security.authentication;
 
 import com.star.system.utils.StarryProperties;
-import com.star.system.framework.entity.User;
+import com.star.system.framework.domain.User;
 import com.star.system.framework.service.IUserDataPermissionService;
 import com.star.system.framework.service.IUserService;
 import com.star.system.monitor.service.ISessionService;

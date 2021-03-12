@@ -1,7 +1,7 @@
 package com.star.system.framework.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.star.system.framework.entity.UserRole;
+import com.star.system.framework.domain.UserRole;
 
 import java.util.List;
 import java.util.Set;

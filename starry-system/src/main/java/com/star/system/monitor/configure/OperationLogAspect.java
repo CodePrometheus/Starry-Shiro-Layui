@@ -4,7 +4,7 @@ import com.star.common.annotation.OperationLog;
 import com.star.common.aspect.BaseAspect;
 import com.star.common.exception.StarryException;
 import com.star.system.security.authentication.StarryUtil;
-import com.star.system.framework.entity.User;
+import com.star.system.framework.domain.User;
 import com.star.system.monitor.service.OperationLogService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
@@ -37,6 +37,7 @@ public class OperationLogAspect extends BaseAspect {
 
     @Pointcut("@annotation(com.star.common.annotation.OperationLog)")
     public void pointcut() {
+        // 该方法无方法体,主要为了让同类中其他方法使用此切入点
     }
 
     @Around("pointcut()")

@@ -2,8 +2,8 @@ package com.star.system.generator.service;
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.star.common.entity.QueryRequest;
-import com.star.system.generator.entity.Column;
-import com.star.system.generator.entity.Table;
+import com.star.system.generator.domain.Column;
+import com.star.system.generator.domain.Table;
 
 import java.util.List;
 

@@ -3,8 +3,8 @@ package com.star.system.generator.mapper;
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.star.system.generator.entity.Column;
-import com.star.system.generator.entity.Table;
+import com.star.system.generator.domain.Column;
+import com.star.system.generator.domain.Table;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;

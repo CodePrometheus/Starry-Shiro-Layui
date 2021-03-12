@@ -7,7 +7,7 @@ import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.star.common.entity.QueryRequest;
 import com.star.common.entity.StarryConstant;
 import com.star.common.utils.SortUtil;
-import com.star.system.job.entity.JobLog;
+import com.star.system.job.domain.JobLog;
 import com.star.system.job.mapper.JobLogMapper;
 import com.star.system.job.service.IJobLogService;
 import lombok.extern.slf4j.Slf4j;

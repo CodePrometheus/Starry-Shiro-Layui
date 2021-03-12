@@ -2,7 +2,7 @@ package com.star.system.framework.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.star.system.framework.entity.RoleMenu;
+import com.star.system.framework.domain.RoleMenu;
 import com.star.system.framework.mapper.RoleMenuMapper;
 import com.star.system.framework.service.IRoleMenuService;
 import com.star.system.framework.service.IUserRoleService;

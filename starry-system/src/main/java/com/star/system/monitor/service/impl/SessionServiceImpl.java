@@ -3,8 +3,8 @@ package com.star.system.monitor.service.impl;
 import com.google.common.collect.Lists;
 import com.star.common.utils.AddressUtil;
 import com.star.common.utils.DateUtil;
-import com.star.system.framework.entity.User;
-import com.star.system.monitor.entity.ActiveUser;
+import com.star.system.framework.domain.User;
+import com.star.system.monitor.domain.ActiveUser;
 import com.star.system.monitor.service.ISessionService;
 import lombok.RequiredArgsConstructor;
 import org.apache.commons.lang3.StringUtils;
@@ -20,8 +20,8 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 
-import static com.star.system.monitor.entity.ActiveUser.OFFLINE;
-import static com.star.system.monitor.entity.ActiveUser.ONLINE;
+import static com.star.system.monitor.domain.ActiveUser.OFFLINE;
+import static com.star.system.monitor.domain.ActiveUser.ONLINE;
 
 /**
  * @Author: zzStar

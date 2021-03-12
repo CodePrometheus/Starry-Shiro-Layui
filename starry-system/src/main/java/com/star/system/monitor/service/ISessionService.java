@@ -1,6 +1,6 @@
 package com.star.system.monitor.service;
 
-import com.star.system.monitor.entity.ActiveUser;
+import com.star.system.monitor.domain.ActiveUser;
 import org.apache.shiro.subject.SimplePrincipalCollection;
 
 import java.util.List;

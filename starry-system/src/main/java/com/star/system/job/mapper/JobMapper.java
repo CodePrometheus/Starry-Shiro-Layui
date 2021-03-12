@@ -2,7 +2,7 @@ package com.star.system.job.mapper;
 
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.star.system.job.entity.Job;
+import com.star.system.job.domain.Job;
 
 import java.util.List;
 

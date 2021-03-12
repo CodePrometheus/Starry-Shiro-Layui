@@ -9,7 +9,7 @@ import com.star.system.utils.MenuTree;
 import com.star.common.entity.Strings;
 import com.star.system.security.authentication.UserAuthenticationUpdatedEventPublisher;
 import com.star.system.utils.TreeUtil;
-import com.star.system.framework.entity.Menu;
+import com.star.system.framework.domain.Menu;
 import com.star.system.framework.mapper.MenuMapper;
 import com.star.system.framework.service.IMenuService;
 import com.star.system.framework.service.IRoleMenuService;

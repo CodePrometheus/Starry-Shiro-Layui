@@ -1,7 +1,7 @@
 package com.star.system.others.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.star.system.others.entity.Eximport;
+import com.star.system.others.domain.Eximport;
 
 /**
  * @Author: zzStar

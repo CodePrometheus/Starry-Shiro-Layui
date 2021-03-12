@@ -2,7 +2,7 @@ package com.star.system.framework.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.star.system.utils.MenuTree;
-import com.star.system.framework.entity.Menu;
+import com.star.system.framework.domain.Menu;
 
 import java.util.List;
 

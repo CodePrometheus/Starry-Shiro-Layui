@@ -1,7 +1,7 @@
 package com.star.system.monitor.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.star.system.monitor.entity.SystemLog;
+import com.star.system.monitor.domain.SystemLog;
 
 /**
  * @Author: zzStar

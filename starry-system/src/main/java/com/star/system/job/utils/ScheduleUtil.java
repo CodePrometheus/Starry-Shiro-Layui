@@ -1,6 +1,6 @@
 package com.star.system.job.utils;
 
-import com.star.system.job.entity.Job;
+import com.star.system.job.domain.Job;
 import lombok.extern.slf4j.Slf4j;
 import org.quartz.*;
 

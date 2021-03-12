@@ -1,7 +1,7 @@
 package com.star.system.framework.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.star.system.framework.entity.Menu;
+import com.star.system.framework.domain.Menu;
 
 import java.util.List;
 

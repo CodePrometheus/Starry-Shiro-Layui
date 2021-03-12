@@ -3,7 +3,7 @@ package com.star.system.framework.service.impl;
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.star.common.entity.Strings;
-import com.star.system.framework.entity.UserDataPermission;
+import com.star.system.framework.domain.UserDataPermission;
 import com.star.system.framework.mapper.UserDataPermissionMapper;
 import com.star.system.framework.service.IUserDataPermissionService;
 import org.springframework.stereotype.Service;

@@ -3,7 +3,7 @@ package com.star.system.framework.service;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.star.common.entity.QueryRequest;
-import com.star.system.framework.entity.Role;
+import com.star.system.framework.domain.Role;
 
 import java.util.List;
 

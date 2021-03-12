@@ -4,7 +4,7 @@ import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.star.common.entity.QueryRequest;
 import com.star.common.entity.StarryConstant;
-import com.star.system.framework.entity.User;
+import com.star.system.framework.domain.User;
 import org.springframework.scheduling.annotation.Async;
 
 /**

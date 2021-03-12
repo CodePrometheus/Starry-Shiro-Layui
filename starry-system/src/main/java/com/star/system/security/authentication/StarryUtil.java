@@ -2,8 +2,7 @@ package com.star.system.security.authentication;
 
 
 import com.star.common.entity.StarryConstant;
-import com.star.common.entity.Strings;
-import com.star.system.framework.entity.User;
+import com.star.system.framework.domain.User;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.shiro.SecurityUtils;
@@ -11,7 +10,6 @@ import org.apache.shiro.SecurityUtils;
 import javax.servlet.http.HttpServletRequest;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java.util.stream.IntStream;
 
 
 /**

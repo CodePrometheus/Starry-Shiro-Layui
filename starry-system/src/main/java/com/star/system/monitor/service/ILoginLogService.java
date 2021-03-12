@@ -3,8 +3,8 @@ package com.star.system.monitor.service;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.star.common.entity.QueryRequest;
-import com.star.system.framework.entity.User;
-import com.star.system.monitor.entity.LoginLog;
+import com.star.system.framework.domain.User;
+import com.star.system.monitor.domain.LoginLog;
 
 import java.util.List;
 import java.util.Map;

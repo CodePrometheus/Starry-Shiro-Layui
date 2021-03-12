@@ -11,6 +11,7 @@
     <modules>
         <module>starry-common</module>
         <module>starry-system</module>
+        <module>starry-quartz</module>
     </modules>
 
     <parent>

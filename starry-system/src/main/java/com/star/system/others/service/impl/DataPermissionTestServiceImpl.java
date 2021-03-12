@@ -5,7 +5,7 @@ import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.star.common.entity.QueryRequest;
-import com.star.system.others.entity.DataPermissionTest;
+import com.star.system.others.domain.DataPermissionTest;
 import com.star.system.others.mapper.DataPermissionTestMapper;
 import com.star.system.others.service.IDataPermissionTestService;
 import org.springframework.stereotype.Service;

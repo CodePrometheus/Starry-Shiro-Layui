@@ -24,10 +24,6 @@ public class RedisService {
 
     private final RedisTemplate<String, Object> redisTemplate;
 
-    public RedisService(RedisTemplate<String, Object> redisTemplate) {
-        this.redisTemplate = redisTemplate;
-    }
-
     /**
      * 指定缓存失效时间
      *

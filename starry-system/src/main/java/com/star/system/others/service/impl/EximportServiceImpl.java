@@ -5,7 +5,7 @@ import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.star.common.entity.QueryRequest;
 import com.star.system.utils.StarryProperties;
-import com.star.system.others.entity.Eximport;
+import com.star.system.others.domain.Eximport;
 import com.star.system.others.mapper.EximportMapper;
 import com.star.system.others.service.IEximportService;
 import lombok.RequiredArgsConstructor;

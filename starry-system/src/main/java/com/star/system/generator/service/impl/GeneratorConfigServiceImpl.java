@@ -1,7 +1,7 @@
 package com.star.system.generator.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.star.system.generator.entity.GeneratorConfig;
+import com.star.system.generator.domain.GeneratorConfig;
 import com.star.system.generator.mapper.GeneratorConfigMapper;
 import com.star.system.generator.service.IGeneratorConfigService;
 import org.apache.commons.collections4.CollectionUtils;

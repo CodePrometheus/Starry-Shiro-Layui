@@ -2,8 +2,8 @@ package com.star.system.job.utils;
 
 import com.star.common.entity.StarryConstant;
 import com.star.common.utils.SpringContextUtil;
-import com.star.system.job.entity.Job;
-import com.star.system.job.entity.JobLog;
+import com.star.system.job.domain.Job;
+import com.star.system.job.domain.JobLog;
 import com.star.system.job.service.IJobLogService;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;

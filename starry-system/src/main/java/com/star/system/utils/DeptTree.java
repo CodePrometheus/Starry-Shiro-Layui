@@ -1,6 +1,6 @@
 package com.star.system.utils;
 
-import com.star.system.framework.entity.Dept;
+import com.star.system.framework.domain.Dept;
 import lombok.Data;
 
 import java.io.Serializable;

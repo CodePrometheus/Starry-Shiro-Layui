@@ -3,7 +3,7 @@ package com.star.system.job.service;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.star.common.entity.QueryRequest;
-import com.star.system.job.entity.Job;
+import com.star.system.job.domain.Job;
 
 /**
  * @Author: zzStar

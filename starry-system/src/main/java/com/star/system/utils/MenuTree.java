@@ -1,6 +1,6 @@
 package com.star.system.utils;
 
-import com.star.system.framework.entity.Menu;
+import com.star.system.framework.domain.Menu;
 import lombok.Data;
 
 import java.io.Serializable;

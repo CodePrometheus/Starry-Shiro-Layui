@@ -3,7 +3,7 @@ package com.star.system.others.service;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.star.common.entity.QueryRequest;
-import com.star.system.others.entity.DataPermissionTest;
+import com.star.system.others.domain.DataPermissionTest;
 
 
 /**

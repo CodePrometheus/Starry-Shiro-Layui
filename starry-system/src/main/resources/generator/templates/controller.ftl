@@ -3,7 +3,7 @@ package ${basePackage}.${controllerPackage};
 import com.star.common.annotation.OperationLog;
 import com.star.system.security.authentication.StarryUtil;
 import com.star.common.entity.StarryConstant;
-import com.star.system.framework.controller.BaseController;
+import com.star.system.framework.rest.BaseController;
 import com.star.common.entity.AjaxResult;
 import com.star.common.entity.QueryRequest;
 import ${basePackage}.${entityPackage}.${className};

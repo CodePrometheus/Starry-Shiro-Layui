@@ -4,8 +4,8 @@ import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.star.common.entity.QueryRequest;
 import com.star.common.entity.StarryConstant;
-import com.star.system.framework.entity.User;
-import com.star.system.monitor.entity.SystemLog;
+import com.star.system.framework.domain.User;
+import com.star.system.monitor.domain.SystemLog;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.springframework.scheduling.annotation.Async;
 

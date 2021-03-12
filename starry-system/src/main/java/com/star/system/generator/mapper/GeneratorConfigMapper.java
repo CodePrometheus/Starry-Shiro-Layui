@@ -1,7 +1,7 @@
 package com.star.system.generator.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.star.system.generator.entity.GeneratorConfig;
+import com.star.system.generator.domain.GeneratorConfig;
 
 /**
  * @Author: zzStar

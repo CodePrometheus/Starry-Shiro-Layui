@@ -2,7 +2,7 @@ package com.star.system.framework.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.star.system.framework.entity.UserRole;
+import com.star.system.framework.domain.UserRole;
 import com.star.system.framework.mapper.UserRoleMapper;
 import com.star.system.framework.service.IUserRoleService;
 import org.apache.commons.collections4.CollectionUtils;

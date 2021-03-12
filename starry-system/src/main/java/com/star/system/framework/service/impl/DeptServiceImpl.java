@@ -9,7 +9,7 @@ import com.star.common.entity.QueryRequest;
 import com.star.common.entity.StarryConstant;
 import com.star.common.utils.SortUtil;
 import com.star.system.utils.TreeUtil;
-import com.star.system.framework.entity.Dept;
+import com.star.system.framework.domain.Dept;
 import com.star.system.framework.mapper.DeptMapper;
 import com.star.system.framework.service.IDeptService;
 import com.star.system.framework.service.IUserDataPermissionService;

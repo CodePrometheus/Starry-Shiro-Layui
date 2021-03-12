@@ -8,7 +8,7 @@ import com.star.common.entity.QueryRequest;
 import com.star.common.entity.StarryConstant;
 import com.star.common.entity.Strings;
 import com.star.common.utils.SortUtil;
-import com.star.system.job.entity.Job;
+import com.star.system.job.domain.Job;
 import com.star.system.job.mapper.JobMapper;
 import com.star.system.job.service.IJobService;
 import com.star.system.job.utils.ScheduleUtil;

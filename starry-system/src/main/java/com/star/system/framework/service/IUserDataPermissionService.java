@@ -2,7 +2,7 @@ package com.star.system.framework.service;
 
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.star.system.framework.entity.UserDataPermission;
+import com.star.system.framework.domain.UserDataPermission;
 
 import java.util.List;
 

@@ -14,7 +14,7 @@ import com.star.common.exception.StarryException;
 import com.star.common.utils.Md5Util;
 import com.star.common.utils.SortUtil;
 import com.star.system.security.authentication.StarryUtil;
-import com.star.system.framework.entity.*;
+import com.star.system.framework.domain.*;
 import com.star.system.framework.mapper.UserMapper;
 import com.star.system.framework.service.*;
 import lombok.RequiredArgsConstructor;

@@ -2,7 +2,7 @@ package com.star.system.others.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.star.common.annotation.StarryDataPermission;
-import com.star.system.others.entity.DataPermissionTest;
+import com.star.system.others.domain.DataPermissionTest;
 
 /**
  * @Author: zzStar

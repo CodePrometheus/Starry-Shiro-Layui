@@ -4,7 +4,7 @@ package com.star.system.security.authentication;
 import com.star.common.entity.StarryConstant;
 import com.star.common.entity.Strings;
 import com.star.system.utils.RedisService;
-import com.star.system.framework.entity.User;
+import com.star.system.framework.domain.User;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.shiro.subject.PrincipalCollection;
 import org.crazycake.shiro.RedisCacheManager;

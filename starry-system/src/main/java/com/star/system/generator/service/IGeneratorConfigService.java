@@ -1,7 +1,7 @@
 package com.star.system.generator.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.star.system.generator.entity.GeneratorConfig;
+import com.star.system.generator.domain.GeneratorConfig;
 
 /**
  * @Author: zzStar

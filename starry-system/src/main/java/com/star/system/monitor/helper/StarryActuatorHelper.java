@@ -5,9 +5,9 @@ import com.star.common.annotation.Helper;
 import com.star.common.entity.Strings;
 import com.star.common.utils.DateUtil;
 import com.star.system.monitor.endpoint.StarryMetricsEndpoint;
-import com.star.system.monitor.entity.JvmInfo;
-import com.star.system.monitor.entity.ServerInfo;
-import com.star.system.monitor.entity.TomcatInfo;
+import com.star.system.monitor.domain.JvmInfo;
+import com.star.system.monitor.domain.ServerInfo;
+import com.star.system.monitor.domain.TomcatInfo;
 import lombok.RequiredArgsConstructor;
 import org.apache.commons.lang3.StringUtils;
 
